@@ -1,0 +1,241 @@
+#header{
+    background: rgb(52, 235, 168);
+    border-bottom: 1px solid white;
+    
+}
+#header ul li a{
+    color: white;
+    font-size: 15px;
+    transition-property: color;
+   
+}
+#header ul li a:hover{
+    color: red;
+}
+#header .navbar-brand{
+    color: white;
+    font-size: 25px;
+   
+}
+#header .bi-list{
+    color: white;
+    font-size: 30px;
+  
+}
+#header #read-button{
+    color:rgb(52, 235, 168);
+    background: white; 
+    border-radius: 50px;
+    border: none;
+    margin-left: 10px;
+    padding: 0px 10px;
+    transition-property: background;
+    transition-duration: 1s;
+  
+}
+#header #read-button:hover{
+    background:red;
+}
+#banner{
+    background: rgb(52, 235, 168);
+    padding-top: 40px;
+    
+}
+#banner h4{
+    color: white;
+    
+}
+#banner p{
+    text-align:justify;
+    color: white;
+   
+}
+#banner #banner-img{
+    width: 370px;
+}
+#banner img{
+    width: 100%;
+    background:center bottom no-repeat;
+
+}
+#banner #banner-button{
+    color:white;
+    background:rgb(52, 235, 168);
+    border-radius: 50px;
+    padding: 10px;
+    border:2px solid white;    
+    transition-property: background;
+    transition-duration: 1s;
+}
+#banner #banner-button:hover{
+    background: red;
+}
+#about h4{
+    color:rgb(52, 235, 168);
+    background:white;
+    border: 2px solid rgb(52,235,168);
+    border-radius: 50px;
+    padding: 15px;  
+    width: 150px;
+}
+#about h2{
+    text-align:justify;
+}
+#about .bi-person{
+    font-size: 30px;
+    margin-right: 20px;
+    color:rgb(52,235,168);
+}
+#about .bi-piggy-bank{
+    font-size: 30px;
+    margin-right:20px;
+    color:rgb(52,235,168);
+
+}
+#about #about-button{
+    color:white;
+    background: rgb(52, 235, 168); 
+    border-radius: 50px;
+    margin-left: 20px;
+    padding: 10px 10px; 
+    margin-top: 10px;
+    transition-property: background;
+    transition-duration: 1s;
+}
+#about #about-button:hover{
+    background: red;
+}
+#news{
+    background: rgb(52, 235, 168);
+    padding: 40px;
+    margin-top: 40px;
+    height: 200px;
+}
+#news .form-control{
+    border-radius: 50px;
+}
+#news #new-img{
+    width: 300px;
+}
+#Service{
+    margin-top: 120px;
+}
+#Service #ser-h{
+    text-align: center;
+    
+}
+#Service h3{
+    color: rgb(52, 235, 168);
+}
+#Service #c{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#features{
+    margin-top: 40px;
+}
+#features #fea-h{
+    color:rgb(52, 235, 168);
+    background:white;
+    border: 2px solid rgb(52,235,168);
+    border-radius: 50px;
+    padding: 15px;  
+    width: 150px;
+}
+#features #fea-button{
+    color:white;
+    background: rgb(52, 235, 168); 
+    border-radius: 50px;
+    margin-left: 20px;
+    padding: 10px 10px; 
+    margin-top: 10px;
+    transition-property:background;
+    transition-duration: 1s;
+}
+#features #fea-button:hover{
+    background:red;
+}
+#features #fea-p2{
+    padding-top: 30px;
+}
+#features #fea-p3{
+    padding-top: 30px;
+}
+#features h6{
+    padding: 20px;
+}
+#client{
+    background: rgb(52, 235, 168);
+    margin-top: 50px;
+}
+#testi #t-h{
+    text-align: center;
+    margin-top: 50px;
+}
+#testi .card-img-top{
+    border-radius: 50%;
+    border-color: rgb(52, 235, 168); 
+}
+#testi #i-p{
+    text-align: center;
+    padding-top: 20px;
+    color:  rgb(52, 235, 168);
+    transition-property: color;
+}
+#testi #i-p:hover{
+    color: red;
+}
+#testi .bi-facebook{
+    padding: 10px;
+}
+#testi .col-md-3{
+    margin-top: 20px;
+    transition-property: box-shadow;
+}
+#testi .col-md-3:hover{
+    box-shadow: 10px 10px 10px 10px #cdcbcb
+}
+#footer{
+    background:rgb(52, 235, 168);
+    margin-top: 50px;
+}
+#footer h2{
+    color: white;
+    padding-top: 50px;
+}
+#footer table tr{
+    color: white;
+    display: flex;
+    padding-top: 10px;
+}
+#footer table tr td i{
+    font-size: 20px;
+    margin-right: 5px;
+}
+#footer .col-md-3 .text-white {
+    margin-top: 10px;
+    
+}
+#footer .col-md-3 a{
+    color: white;
+    display: flex;
+    padding: 14px 0px;
+    transition-property:color;
+
+}
+#footer .col-md-3 a:hover{
+    color:red;
+}
+#footer #f-p{
+    color: white;
+}
+#footer-menu .col-md-12{
+    display: flex;
+    color: white;
+    margin-top: 20px;
+}
+#footer .ms-auto a{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
